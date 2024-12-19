@@ -1,2 +1,3 @@
 # deepak_kumar
-other name deepak kumar
+authar name deepak kumar
+my first repo
