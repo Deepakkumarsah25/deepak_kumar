@@ -1,3 +1,3 @@
 # deepak_kumar
-authar name deepak kumar<br>
+authar (er deepak kumar)<br>
 my first repo
